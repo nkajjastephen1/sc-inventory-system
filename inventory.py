@@ -1,5 +1,5 @@
 # inventory.py
-
+# Inventory restock calculation module
 from math import ceil
 
 
